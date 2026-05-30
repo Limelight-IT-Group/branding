@@ -1,0 +1,13 @@
+# Large files
+*.psd
+*.ai
+*.sketch
+*.fig
+# OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+# Temp
+tmp/
+*.tmp
